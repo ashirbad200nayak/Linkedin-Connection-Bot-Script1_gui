@@ -63,7 +63,6 @@ CONTRIBUTE AND PUSH TO YOUR REPO THEN MAKE A PULL REQUEST HERE.
 
 
 An Automation Bot that Sends connection requests to n number of user from different fields and saves their data to a CSV file.
-## Use Cases 🤞😊
 
 
 
